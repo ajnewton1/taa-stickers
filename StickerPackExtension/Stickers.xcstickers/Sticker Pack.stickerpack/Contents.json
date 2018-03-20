@@ -1,0 +1,74 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Accountability.sticker"
+    },
+    {
+      "filename" : "Commitment.sticker"
+    },
+    {
+      "filename" : "Courage.sticker"
+    },
+    {
+      "filename" : "Passion.sticker"
+    },
+    {
+      "filename" : "Practice Logo.sticker"
+    },
+    {
+      "filename" : "Circle Logo.sticker"
+    },
+    {
+      "filename" : "White Jersey Logo.sticker"
+    },
+    {
+      "filename" : "USA Logo.sticker"
+    },
+    {
+      "filename" : "TAA Star.sticker"
+    },
+    {
+      "filename" : "TAA Words.sticker"
+    },
+    {
+      "filename" : "TAA Digi.sticker"
+    },
+    {
+      "filename" : "Gray Logo.sticker"
+    },
+    {
+      "filename" : "TAA Opening Night.sticker"
+    },
+    {
+      "filename" : "TAA Bling Words.sticker"
+    },
+    {
+      "filename" : "Gray Jersey Logo.sticker"
+    },
+    {
+      "filename" : "TAA Bling.sticker"
+    },
+    {
+      "filename" : "Fall Ball Logo.sticker"
+    },
+    {
+      "filename" : "TAA.sticker"
+    },
+    {
+      "filename" : "Sideways.sticker"
+    },
+    {
+      "filename" : "Gray Jersey.sticker"
+    },
+    {
+      "filename" : "Gray Hat.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "small"
+  }
+}
